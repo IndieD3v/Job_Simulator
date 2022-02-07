@@ -1,1 +1,2 @@
-# Job_Simulator
+# Job Simulator
+A simple job simulator
